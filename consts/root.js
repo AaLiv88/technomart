@@ -1,0 +1,1 @@
+const ROOT_PRODUCTS = document.querySelector(".catalog__catalog")
