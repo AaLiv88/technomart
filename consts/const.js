@@ -30,4 +30,12 @@ const CATALOG = [
     "img": "img/main/Perforator_4.jpg",
     "newMark": "new-mark",
   },
+
+  {
+    "name": "Перфоратор BOSCH BFG 5000",
+    "price": 12,
+    "beforePrice": "11",
+    "img": "img/main/Perforator_4.jpg",
+    "newMark": "new-mark",
+  },
 ]
